@@ -10,6 +10,7 @@ automates the process of manually having to go to the webserver (using mine on a
 uses two non-standard dependencies:
 
 `pip install lxml`
+
 `pip install loguru`
 
 <img width="1191" height="973" alt="image" src="https://github.com/user-attachments/assets/9f37736e-4cdf-4206-93b7-ea7d76daaf1c" />
